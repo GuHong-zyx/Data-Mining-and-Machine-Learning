@@ -1,0 +1,62 @@
+{
+    "DNN": {
+        "mean_accuracy": 0.9219211822660099,
+        "mean_f1_score": 0.8723684210526315,
+        "mean_sensitivity": 0.8416666666666666,
+        "mean_precision": 0.915,
+        "mean_auc_score": 0.9743055555555555,
+        "std_accuracy": 0.057212883880078266,
+        "std_f1_score": 0.08328022314971928,
+        "std_sensitivity": 0.08766518798921943,
+        "std_precision": 0.11789826122551599,
+        "std_auc_score": 0.02631280441159535
+    },
+    "RNN": {
+        "mean_accuracy": 0.7583743842364532,
+        "mean_f1_score": 0.5024708624708625,
+        "mean_sensitivity": 0.5083333333333334,
+        "mean_precision": 0.6857142857142857,
+        "mean_auc_score": 0.9057675438596491,
+        "std_accuracy": 0.1330993096970844,
+        "std_f1_score": 0.30972759087972707,
+        "std_sensitivity": 0.3796115623523669,
+        "std_precision": 0.4080816244881629,
+        "std_auc_score": 0.09484246264641792
+    },
+    "LSTM": {
+        "mean_accuracy": 0.8647783251231527,
+        "mean_f1_score": 0.7816666666666666,
+        "mean_sensitivity": 0.8222222222222222,
+        "mean_precision": 0.7757575757575758,
+        "mean_auc_score": 0.9360964912280701,
+        "std_accuracy": 0.06595468616074342,
+        "std_f1_score": 0.13042665031009235,
+        "std_sensitivity": 0.20608041101101565,
+        "std_precision": 0.12508949963969876,
+        "std_auc_score": 0.05402746870413966
+    },
+    "CNN": {
+        "mean_accuracy": 0.9004926108374385,
+        "mean_f1_score": 0.8242857142857142,
+        "mean_sensitivity": 0.7972222222222222,
+        "mean_precision": 0.8804545454545455,
+        "mean_auc_score": 0.9765862573099415,
+        "std_accuracy": 0.07304274297587002,
+        "std_f1_score": 0.14180685340796964,
+        "std_sensitivity": 0.1899480110808751,
+        "std_precision": 0.10821237154490192,
+        "std_auc_score": 0.026399432537506998
+    },
+    "Simple2DCNN": {
+        "mean_accuracy": 0.9076354679802956,
+        "mean_f1_score": 0.8429345422379477,
+        "mean_sensitivity": 0.8222222222222222,
+        "mean_precision": 0.8977777777777778,
+        "mean_auc_score": 0.9802704678362574,
+        "std_accuracy": 0.058218807043405096,
+        "std_f1_score": 0.09939037300310949,
+        "std_sensitivity": 0.16629588385661961,
+        "std_precision": 0.10963463452039121,
+        "std_auc_score": 0.016263468321149773
+    }
+}
